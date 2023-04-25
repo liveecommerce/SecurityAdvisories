@@ -1,5 +1,7 @@
 # Roave Security Advisories
 
+## This is a fork to use laminas 2.11.*.
+
 ## A message to Russian 🇷🇺 people
 
 If you currently live in Russia, please read [this message](./ToRussianPeople.md).
